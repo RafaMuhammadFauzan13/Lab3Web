@@ -269,6 +269,16 @@ Ditambahkan ID selector dan class selector pada `style_eksternal.css`.
 
 ---
 
+## Eksperimen CSS
+
+Sebagai latihan tambahan, dilakukan eksperimen mengubah dan menambah properti serta nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet, misalnya mengganti warna, jenis huruf, atau jarak antarelemen, lalu mengamati perubahannya di browser.
+
+**Hasil:**
+
+![Eksperimen CSS](screenshots/eksperimen.png)
+
+---
+
 ## Jawaban Pertanyaan
 
 Jawaban dari pertanyaan praktikum ada di berkas terpisah: [JAWABAN.md](JAWABAN.md).
