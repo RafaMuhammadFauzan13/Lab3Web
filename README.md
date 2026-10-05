@@ -26,7 +26,6 @@ Repository ini berisi hasil Praktikum 3 Pemrograman Web. Praktikum ini membahas 
 
 - Visual Studio Code
 - Web browser (Google Chrome / Mozilla Firefox)
-- [CSS Validator W3C](https://jigsaw.w3.org/css-validator/) untuk validasi dokumen CSS
 - Git dan GitHub
 
 ## Struktur Repository
